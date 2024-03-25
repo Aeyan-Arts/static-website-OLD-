@@ -1,0 +1,51 @@
+.gridstuff {
+    gap: 20px;
+}
+
+.side-padding>p {
+    width: 1000px;
+}
+
+.side-padding {
+    padding-left: 70px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.Author {
+    padding-top: 15px;
+    border-top: 2px solid rgb(104, 151, 118);
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+.authors picture {
+    align-self: self-start;
+}
+
+#inlin {
+    display: inline;
+}
+
+.flexBox {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    gap: 10px;
+}
+
+.flexBox>img {
+    max-width: 100%;
+    height: auto;
+}
+
+article {
+    border-radius: 15px;
+    border: 2px solid rgb(104, 151, 118);
+    background-color: rgba(240, 227, 202, 0.897);
+    padding: 20px;
+}

@@ -3,6 +3,7 @@ made this for a project it's completely static
 
 credit to the photos:
 background:<a herf="https://pixabay.com/illustrations/cactus-plants-pots-flowers-pattern-2191647/">by Wilian Tosta from Pixabay</a>
+
 main logo icon: <a href="https://www.flaticon.com/free-icons/tree" title="tree icons">Tree icons created by Freepik - Flaticon</a>
 
 photo's in order appearance in index.html:
